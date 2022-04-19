@@ -9,7 +9,8 @@
 
 2. Clique em **Users**, e depois no seu email de **usuário**.
 3. Clique com o **botão direito** e depois em **import**.
-![image](https://user-images.githubusercontent.com/104010442/164017687-718c13a8-4af2-4de8-83bc-5799b76500e0.png)
+![image](https://user-images.githubusercontent.com/104010442/164019123-6b623a38-ab4e-4dd8-9cd9-2b86911e2466.png)
+
 
 
 4. Clique em **browse** e selecione o arquivo.
